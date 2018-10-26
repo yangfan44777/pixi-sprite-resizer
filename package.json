@@ -1,0 +1,23 @@
+{
+  "name": "pixi-sprite-resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangfan44777/pixi-sprite-resizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangfan44777/pixi-sprite-resizer/issues"
+  },
+  "homepage": "https://github.com/yangfan44777/pixi-sprite-resizer#readme",
+  "dependencies": {
+    "gl-vec3": "^1.1.3",
+    "pixi.js": "^4.8.2"
+  }
+}
